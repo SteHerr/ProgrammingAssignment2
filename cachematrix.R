@@ -1,4 +1,7 @@
-## Put comments here that give an overall description of what your functions do
+# JHU Coursera R Programming Assignment #2
+# July 2017
+# author: SteHerr
+#####################################################################################################################################################################################################################################################################################################################
 # We will create a matrix and inverse this matrix with a first function. Also, the first function will be able to cache the inverse of this matrix 
 # in the system. A second function will check if the inverse of a matrix is already cached in the system. If yes, the function will restore the result
 # from the cache, if not the function will calculate the inverse of the matrix and save it in the cache.
